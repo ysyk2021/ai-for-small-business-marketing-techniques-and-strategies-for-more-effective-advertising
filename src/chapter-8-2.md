@@ -1,5 +1,4 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-===============================================================================================================================
+
 
 As small businesses adopt AI technology for marketing, it's essential to consider the ethical and legal implications of these applications. In this chapter, we will discuss AI ethics and governance for small business marketing and explore how small businesses can develop governance frameworks to ensure responsible AI use.
 

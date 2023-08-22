@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI for Small Business Marketing
-========================================================
+
 
 Artificial intelligence (AI) is transforming the way small businesses approach marketing. In this chapter, we will provide an overview of AI for small business marketing, including its definition, types of AI used for marketing, and benefits for small businesses.
 

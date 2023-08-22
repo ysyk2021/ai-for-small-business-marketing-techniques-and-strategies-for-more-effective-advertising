@@ -1,5 +1,4 @@
-Types of AI used for marketing
-========================================================================================
+
 
 Small businesses can leverage various types of AI to improve their marketing efforts and achieve better results. In this chapter, we will discuss the types of AI that are commonly used for small business marketing.
 

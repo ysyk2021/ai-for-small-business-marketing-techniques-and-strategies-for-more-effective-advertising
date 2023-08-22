@@ -1,5 +1,4 @@
-Definition of AI
-==========================================================================
+
 
 Artificial intelligence (AI) has become an increasingly important tool for small business marketing. In this chapter, we will define AI and provide an overview of its applications in small business marketing.
 
