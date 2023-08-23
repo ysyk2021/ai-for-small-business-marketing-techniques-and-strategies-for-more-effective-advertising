@@ -1,5 +1,4 @@
 
-
 Measuring the impact of AI technology on small business marketing performance is crucial to identifying areas for improvement and refinement. In this chapter, we will discuss how small businesses can assess the effectiveness of AI for small business marketing.
 
 Review Goals and Objectives
